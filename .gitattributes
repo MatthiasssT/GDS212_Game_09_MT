@@ -166,3 +166,11 @@ Content/MedievalTavern/TavernAssets/Meshes/ModularParts/SM_chimney.uasset filter
 Content/MedievalTavern/TavernAssets/Meshes/ModularParts/SM_Stairs.uasset filter=lfs diff=lfs merge=lfs -text
 Content/MedievalTavern/TavernAssets/Meshes/ModularParts/SM_roof02.uasset filter=lfs diff=lfs merge=lfs -text
 Content/MedievalTavern/TavernAssets/Textures/T_woodenPlanks_ORMH.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_Main/SFX/Music/Adventure_Beyond.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_Main/SFX/Music/Bonfire.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_Main/SFX/Music/Celebration.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_Main/SFX/Ambience/Fireplace_Sounds_-_Medieval_Tavern_-_Inn_Ambience_｜_1_hour.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_Main/SFX/Music/Entertainment.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_Main/SFX/Music/Lively_Tavern.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_Main/SFX/Music/One_Bard_Band.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_Main/SFX/Music/Adventure.uasset filter=lfs diff=lfs merge=lfs -text
